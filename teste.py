@@ -22,3 +22,5 @@ if __name__ == "__main__":
         print(f"encontrado! '{resultado}'")
         
 ## E aqui seria se o processo desse certo 
+
+

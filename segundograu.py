@@ -3,8 +3,13 @@ def raizes(a, b, c):
     x1 = (-b + D**(1/2)) / (2*a)
     x2 = (-b - D**(1/2)) / (2*a)
     
+    Dex = (-b) / (2*a)
+    DeY = (- D) / (4*a)
+    
     print('Valor de x1: {0}'.format(x1))
     print('Valor de x2:{0}'.format(x2))
+    print((Dex))
+    print((DeY))
     
 if __name__ == '__main__':
     while True:
