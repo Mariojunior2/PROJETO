@@ -1,3 +1,4 @@
+# Explicao dos Valores mais uma Print
 # isto é um comentario
 
 mensagem = "Olá, Python!"

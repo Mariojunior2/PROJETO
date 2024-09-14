@@ -1,3 +1,4 @@
+# Todos os operadores
 # Metod seria Metodo
 
 soma = 10 + 5 # Resultado 15 Metod Soma
