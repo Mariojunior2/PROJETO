@@ -3,7 +3,7 @@ print("Me fale dois numeros que farei seus pares! ")
 
 In = int(input("Me fale o numero inical "))
 IIn = int(input("Me fale o segundo final "))
-if In > IIn:
+if IIn <= In:
     print("Tente Novamente")
 
  
