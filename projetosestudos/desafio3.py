@@ -19,7 +19,7 @@ def listar_tarefa(tarefa):
         print("Nenhuma Tarefa")
 
 def exibir_menu():
-    print("=== Gerenciador de Tarefas ====")
+    print("==== Gerenciador de Tarefas ====")
     print("1 - Adicionar Tarefas")
     print("2 - Remover Tarefa")
     print("3 - Listar Tarefas")
